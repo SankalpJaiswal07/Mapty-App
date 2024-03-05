@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-Explore Mapty App live:
+Explore Mapty App live:https://ca58903a.mapty-app.pages.dev/
 
 ## Overview
 
